@@ -7,3 +7,10 @@ secnd
 a.sh
 
 test
+
+learn
+
+
+sdkjfgdsjkvgsakjvgas
+
+testing
